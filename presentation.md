@@ -118,10 +118,10 @@
     presenter: Xiaoyu Wen   
     pre-record or zoom (preferred time): pre-record     
    
- *   title   
-    author   
-    presenter   
-    pre-record or zoom (preferred time)    
+ *   Learning Independent Causal Mechanisms  
+    Giambattista Parascandolo, Niki Kilbertus, Mateo Rojas-Carulla, Bernhard Schölkopf   
+    Joshua Lemmon   
+    pre-record or zoom (preferred time): pre-record
     
  *   title   
     author   
